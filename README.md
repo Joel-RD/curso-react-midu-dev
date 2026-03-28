@@ -44,9 +44,7 @@ Fase 1: Fundamentos                    ██████████ 100%
 | Recurso | Link |
 |---------|------|
 | Documentacion React | https://react.dev |
-| Documentacion TypeScript | https://www.typescriptlang.org |
-| Documentacion Vite | https://vitejs.dev |
-| Curso Midudev | https://midu.dev |
+| Curso Midudev React | [Curso de React](https://www.youtube.com/playlist?list=PLUofhDIg_38q4D0xNWp7FEHOTcZhjWJ29) |
 
 
 <div align="center">
