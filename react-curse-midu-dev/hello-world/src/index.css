@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  font-family: system-ui
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #222;
+  color: #fff;
+}
+
+#root {
+  height: 100vh;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin: 0 auto;
+  height: 100vh
+}
