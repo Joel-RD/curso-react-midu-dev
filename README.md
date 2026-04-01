@@ -21,20 +21,16 @@ react-curse-midu-dev/
 │
 ├── 📂 hello-world/          ⭐ Proyecto inicial
 │   ├── Concepto: Componentes y Props
-│   ├── Estado: ✅ Completado
-│   └── Tech: React + TypeScript + Vite
+├── 📂 curso-react-miduDev/  ⭐ Prueba técnica de React
+│   └──prueba-trainer-junior (misma lógica actualizada)
 ```
 
 ## 📖 Roadmap de Aprendizaje
 
 ```
-Fase 1: Fundamentos                    ██████████ 100%
-├── ✅ hello-world
-│   ├── Que es React?
-│   ├── JSX y componentes
-│   ├── Props
-│   ├── useState
-│   └── Eventos
+Fase 1: Fundamentos                    
+├── ✅ hello-world                            ██████████ 100%
+│── ✅ prueba-trainer-junior                  ██████████ 100%
 ```
 
 ---
